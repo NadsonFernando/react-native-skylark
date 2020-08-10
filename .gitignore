@@ -61,3 +61,6 @@ buck-out/
 # Jest
 #
 .jest/
+
+lib/
+package-publish.json
