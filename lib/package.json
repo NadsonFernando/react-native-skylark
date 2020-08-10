@@ -1,0 +1,14 @@
+{
+  "name": "react-native-skylark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nádson Fernando",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-skylark": "^1.0.0"
+  }
+}
