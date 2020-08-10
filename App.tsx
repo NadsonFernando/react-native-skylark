@@ -1,9 +1,13 @@
 import React from 'react';
 
-import Skylark from 'react-native-skylark';
+import Title from './src/Title';
 
 const App: React.FC = () => {
-  return <Skylark.CustomText />;
+  return (
+    <>
+      <Title text="Texto skylark" />
+    </>
+  );
 };
 
 export default App;
