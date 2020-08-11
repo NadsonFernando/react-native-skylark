@@ -1,5 +1,3 @@
-const Colors = {
+export default {
   primary: '#2c3e50',
 };
-
-export default Colors;
